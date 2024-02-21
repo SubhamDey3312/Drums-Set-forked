@@ -58,5 +58,3 @@ function makeSound(key) {
     }
 }
 
-// var audio = new Audio("./soundsDRUMKIT/tom-1.mp3");
-//         audio.play()
