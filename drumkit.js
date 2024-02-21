@@ -13,7 +13,7 @@ for (var i = 0; i < noOfDrums; i++) {
     });
 
 }
-
+// adding comments
 
 document.addEventListener("keydown", function(event){
     makeSound(event.key);
